@@ -1,1 +1,2 @@
 # PowerBI-Dashboards
+📊 Welcome to the PowerBI Dashboards repository! I'm Rishapp Rajesh, your curator for insightful data visualizations. With a background in Business Analytics and hands-on experience in crafting impactful dashboards, I'm excited to share a collection of interactive visualizations designed to transform raw data into actionable insights. Explore the repository to discover visually engaging dashboards that drive informed decision-making and uncover hidden trends in your data. Let's empower your analysis with the power of data visualization! 🚀
